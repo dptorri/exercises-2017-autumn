@@ -1,0 +1,49 @@
+/*
+applies the Arial font to the whole page
+*/
+html {
+    font-family: Arial;
+}
+
+h1, h2, h3 {
+    font-family: Impact;
+}
+
+
+h1 {
+    color:blue;
+    size: 25px;
+    font-weight: normal;
+    font-size:2em;
+}
+
+h2 {
+    font-variant: small-caps;
+    font-size:1.5em;
+}
+
+/*
+a: is the selector
+font-weight: is the property
+bold: is the value
+*/
+a {
+    font-weight: bold;
+}
+/*#biography {
+background-color:rgba(40, 79, 164, 0.35);
+*/
+
+p {
+    color:black;
+    font-size: 1em;
+}
+
+
+.good {
+    color: silver;
+}
+
+.bad {
+    color:darkolivegreen;
+}

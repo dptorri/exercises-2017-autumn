@@ -1,0 +1,23 @@
+header {
+    font-size: 2rem;
+}
+
+p{
+    line-height: 1.2em;
+}
+
+body div p a{
+    /*
+    all the links that are inside a paragraph will be affected by this style
+    
+    color:red;*/
+}
+
+body p a{
+    /*
+    all the links that are inside a paragraph will be affected by this style
+    
+    color:green;*/
+}
+
+
